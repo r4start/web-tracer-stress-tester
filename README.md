@@ -1,1 +1,1 @@
-# web-tracer-stress-tester
+# Stress tester for [web-tracer](github.com/r4start/web-tracer) project.
